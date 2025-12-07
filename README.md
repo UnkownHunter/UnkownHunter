@@ -27,7 +27,6 @@ I love solving real-world problems using **AI-driven automation, LLMs, and high-
 ## 📫 Reach Me
 📧 Email: **akash2004sv@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/akash-sannala-a701a8359/**  
-👨‍💻 GitHub: **https://github.com/akashsannala**
 
 ---
 
